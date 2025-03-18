@@ -4,14 +4,10 @@
 - 💡 Passionate about coding and learning new technologies.  
 - 🌱 Exploring **Dart, Java, and CSS** to enhance my skills.  
 - 📧 How to reach me:  
-  - Email: [anjalishrestha373@gmail.com](mailto:anjalishrestha373@gmail.com)  
-  - LinkedIn: [Anjali Shrestha](https://www.linkedin.com/in/anjali-shrestha00)  
+  - Email: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anjalishrestha024@gmail.com)  
+  - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anjali-shrestha00)
+  - Instagram: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anjali_shrestha2004)
 
-
-## 🛠 Languages and Tools:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)  
 
 
 ## 🌐 Socials:
